@@ -6,6 +6,8 @@ const Button = ({ text, href }: { text: string; href: string }) => (
   </a>
 );
 
+//el homesection
+
 const HomeSection = () => (
   <div className="p-3 space-y-3">
     <p className="text-lg">¡Elegí una sección!</p>
